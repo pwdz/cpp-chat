@@ -1,5 +1,5 @@
 # cpp-chat
-TCP Client Server  
+TCP Client Server  [OS Lab]  
 ```
 ./server [server-port-number]
 ```
@@ -8,7 +8,7 @@ TCP Client Server
 ```
 
 
-
+Supported command:  
 - **/join [groupId]**
 - **/send [groupId][message]**
 - **/leave [groupId]**
