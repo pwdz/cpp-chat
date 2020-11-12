@@ -1,10 +1,10 @@
 # cpp-chat
 TCP Client Server  
 ```
-server [server-port-number]
+./server [server-port-number]
 ```
 ```
-client [server-port-number] [client-name]
+./client [server-port-number] [client-name]
 ```
 
 
