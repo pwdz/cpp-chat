@@ -1,5 +1,5 @@
 # cpp-chat
-TCP Client Server  [OS Lab]  
+TCP Client Server(Multithreaded) [OS Lab]  
 ```
 ./server [server-port-number]
 ```
