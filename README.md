@@ -1,6 +1,6 @@
 # cpp-chat
 TCP Client Server(Multithreaded)    
-User `-pthread` flag while compiling  
+Use `-pthread` flag while compiling  
 ```
 ./server [server-port-number]
 ```
