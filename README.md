@@ -1,5 +1,6 @@
 # cpp-chat
-TCP Client Server(Multithreaded)  
+TCP Client Server(Multithreaded)    
+User `-pthread` flag while compiling  
 ```
 ./server [server-port-number]
 ```
@@ -8,7 +9,7 @@ TCP Client Server(Multithreaded)
 ```
 
 
-Supported command:  
+Supported commands:  
 - **/join [groupId]**
 - **/send [groupId][message]**
 - **/leave [groupId]**
